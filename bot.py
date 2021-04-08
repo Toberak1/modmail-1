@@ -1,4 +1,4 @@
-__version__ = "3.9.2"
+__version__ = "3.9.3"
 
 
 import asyncio
@@ -114,9 +114,6 @@ class ModmailBot(commands.Bot):
 
         if os.environ.get("USING_DOCKER"):
             return HostingMethod.DOCKER
-
-        if os.environ.get("INVOCATION_ID"):
-            return HostingMethod.SYSTEMD
 
         if os.environ.get("TERM"):
             return HostingMethod.SCREEN
