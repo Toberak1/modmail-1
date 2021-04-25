@@ -162,12 +162,22 @@ $ docker run --env-file .env kyb3rr/modmail
 
 Special thanks to our sponsors for supporting the project.
 
+Kingdom Gaming Discord:
+<br>
+<a href='https://discord.gg/kingdomgaming'>
+  <img height=150 src='https://i.imgur.com/GLXfl4E.png' style='margin:10px'>
+</a>
+<br>
+<br>
+SirReddit:
+<br>
 <a href='https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ/featured'>
   <img height=150 src='https://i.imgur.com/WyzaPKY.png' style='margin:10px'>
 </a>
+<br>
 
-<a href='https://discord.gg/BanCwptMJV'>
-  <img height=150 src='https://i.imgur.com/cs2QEcp.png' style='margin:10px'>
+<a href='https://primeserversinc.com/'>
+  <img height=150 src='https://primeserversinc.com/images/Prime_Logo_P_Sassy.png' style='margin:10px'>
 </a>
 
 
